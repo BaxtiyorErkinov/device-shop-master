@@ -1,0 +1,449 @@
+{
+  "products": [
+    {
+        "model": "Product 1",
+        "releaseDate": "2023-01-01",
+        "category": [
+            "Category 1"
+        ],
+        "price": 100,
+        "createdAt": "2024-04-10T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 40188
+    },
+    {
+        "model": "Product 2",
+        "releaseDate": "2023-02-01",
+        "category": [
+            "Category 2"
+        ],
+        "price": 150,
+        "createdAt": "2024-04-09T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQw3wOgn3rlRXpQUHK-B1aTQIelbd5Tkyjf8h6p8kSxhM5tOb2P1-0BQtedH-1fdVdNF9IIoAZQXxKwAY4oSlY7HRwh1udgvT_kA46oGMET&usqp=CAc",
+        "id": 29631
+    },
+    {
+        "model": "Product 3",
+        "releaseDate": "2023-03-01",
+        "category": [
+            "Category 1",
+            "Category 2"
+        ],
+        "price": 200,
+        "createdAt": "2024-04-08T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 37149
+    },
+    {
+        "model": "Product 4",
+        "releaseDate": "2023-04-01",
+        "category": [
+            "Category 3"
+        ],
+        "price": 120,
+        "createdAt": "2024-04-07T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQw3wOgn3rlRXpQUHK-B1aTQIelbd5Tkyjf8h6p8kSxhM5tOb2P1-0BQtedH-1fdVdNF9IIoAZQXxKwAY4oSlY7HRwh1udgvT_kA46oGMET&usqp=CAc",
+        "id": 87430
+    },
+    {
+        "model": "Product 5",
+        "releaseDate": "2023-05-01",
+        "category": [
+            "Category 1"
+        ],
+        "price": 180,
+        "createdAt": "2024-04-06T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 90315
+    },
+    {
+        "model": "Product 6",
+        "releaseDate": "2023-06-01",
+        "category": [
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 250,
+        "createdAt": "2024-04-05T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 25719
+    },
+    {
+        "model": "Product 7",
+        "releaseDate": "2023-07-01",
+        "category": [
+            "Category 1",
+            "Category 3"
+        ],
+        "price": 300,
+        "createdAt": "2024-04-04T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0MEUJFP7hnEW5egIbZR-xMDLeXiRjxIpk2omiI9WzqDNDADz9CBGFA06XkWH3RIZTDu-gYiRzq0kB3XWV9CqIgQlV9-BwOP7c0-UvhK9vz2Yi_MhbS_fknMYIRVmVNWZ56-HYaVnlQCE&usqp=CAc",
+        "id": 46358
+    },
+    {
+        "model": "Product 8",
+        "releaseDate": "2023-08-01",
+        "category": [
+            "Category 2"
+        ],
+        "price": 90,
+        "createdAt": "2024-04-03T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 46697
+    },
+    {
+        "model": "Product 9",
+        "releaseDate": "2023-09-01",
+        "category": [
+            "Category 1",
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 210,
+        "createdAt": "2024-04-02T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQw3wOgn3rlRXpQUHK-B1aTQIelbd5Tkyjf8h6p8kSxhM5tOb2P1-0BQtedH-1fdVdNF9IIoAZQXxKwAY4oSlY7HRwh1udgvT_kA46oGMET&usqp=CAc",
+        "id": 33492
+    },
+    {
+        "model": "Product 10",
+        "releaseDate": "2023-10-01",
+        "category": [
+            "Category 1"
+        ],
+        "price": 170,
+        "createdAt": "2024-04-01T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 98142
+    },
+    {
+        "model": "Product 11",
+        "releaseDate": "2023-11-01",
+        "category": [
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 220,
+        "createdAt": "2024-03-31T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSE10J3nITxnv2goGcRmOHkYuHT0S_VGKxZNmQ9jlV_8VoDZ5P-Rn4CRGoNxyRGHfq100zxulDH4bu6ZGcVI6E-M6koVPcPyUmJuImvJ3Q&usqp=CAc",
+        "id": 39052
+    },
+    {
+        "model": "Product 12",
+        "releaseDate": "2023-12-01",
+        "category": [
+            "Category 1",
+            "Category 3"
+        ],
+        "price": 130,
+        "createdAt": "2024-03-30T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQw3wOgn3rlRXpQUHK-B1aTQIelbd5Tkyjf8h6p8kSxhM5tOb2P1-0BQtedH-1fdVdNF9IIoAZQXxKwAY4oSlY7HRwh1udgvT_kA46oGMET&usqp=CAc",
+        "id": 29690
+    },
+    {
+        "model": "Product 13",
+        "releaseDate": "2024-01-01",
+        "category": [
+            "Category 2"
+        ],
+        "price": 190,
+        "createdAt": "2024-03-29T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQw3wOgn3rlRXpQUHK-B1aTQIelbd5Tkyjf8h6p8kSxhM5tOb2P1-0BQtedH-1fdVdNF9IIoAZQXxKwAY4oSlY7HRwh1udgvT_kA46oGMET&usqp=CAc",
+        "id": 53505
+    },
+    {
+        "model": "Product 14",
+        "releaseDate": "2024-02-01",
+        "category": [
+            "Category 1",
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 260,
+        "createdAt": "2024-03-28T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSE10J3nITxnv2goGcRmOHkYuHT0S_VGKxZNmQ9jlV_8VoDZ5P-Rn4CRGoNxyRGHfq100zxulDH4bu6ZGcVI6E-M6koVPcPyUmJuImvJ3Q&usqp=CAc",
+        "id": 24038
+    },
+    {
+        "model": "Product 15",
+        "releaseDate": "2024-03-01",
+        "category": [
+            "Category 1"
+        ],
+        "price": 140,
+        "createdAt": "2024-03-27T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0MEUJFP7hnEW5egIbZR-xMDLeXiRjxIpk2omiI9WzqDNDADz9CBGFA06XkWH3RIZTDu-gYiRzq0kB3XWV9CqIgQlV9-BwOP7c0-UvhK9vz2Yi_MhbS_fknMYIRVmVNWZ56-HYaVnlQCE&usqp=CAc",
+        "id": 58174
+    },
+    {
+        "model": "Product 16",
+        "releaseDate": "2024-04-01",
+        "category": [
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 230,
+        "createdAt": "2024-03-26T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0MEUJFP7hnEW5egIbZR-xMDLeXiRjxIpk2omiI9WzqDNDADz9CBGFA06XkWH3RIZTDu-gYiRzq0kB3XWV9CqIgQlV9-BwOP7c0-UvhK9vz2Yi_MhbS_fknMYIRVmVNWZ56-HYaVnlQCE&usqp=CAc",
+        "id": 86436
+    },
+    {
+        "model": "Product 17",
+        "releaseDate": "2024-05-01",
+        "category": [
+            "Category 1",
+            "Category 3"
+        ],
+        "price": 320,
+        "createdAt": "2024-03-25T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0MEUJFP7hnEW5egIbZR-xMDLeXiRjxIpk2omiI9WzqDNDADz9CBGFA06XkWH3RIZTDu-gYiRzq0kB3XWV9CqIgQlV9-BwOP7c0-UvhK9vz2Yi_MhbS_fknMYIRVmVNWZ56-HYaVnlQCE&usqp=CAc",
+        "id": 50234
+    },
+    {
+        "model": "Product 18",
+        "releaseDate": "2024-06-01",
+        "category": [
+            "Category 2"
+        ],
+        "price": 100,
+        "createdAt": "2024-03-24T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 73386
+    },
+    {
+        "model": "Product 19",
+        "releaseDate": "2024-07-01",
+        "category": [
+            "Category 1",
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 180,
+        "createdAt": "2024-03-23T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSE10J3nITxnv2goGcRmOHkYuHT0S_VGKxZNmQ9jlV_8VoDZ5P-Rn4CRGoNxyRGHfq100zxulDH4bu6ZGcVI6E-M6koVPcPyUmJuImvJ3Q&usqp=CAc",
+        "id": 18628
+    },
+    {
+        "model": "Product 20",
+        "releaseDate": "2024-08-01",
+        "category": [
+            "Category 1"
+        ],
+        "price": 270,
+        "createdAt": "2024-03-22T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 92006
+    },
+    {
+        "model": "Product 21",
+        "releaseDate": "2024-09-01",
+        "category": [
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 340,
+        "createdAt": "2024-03-21T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSE10J3nITxnv2goGcRmOHkYuHT0S_VGKxZNmQ9jlV_8VoDZ5P-Rn4CRGoNxyRGHfq100zxulDH4bu6ZGcVI6E-M6koVPcPyUmJuImvJ3Q&usqp=CAc",
+        "id": 8669
+    },
+    {
+        "model": "Product 22",
+        "releaseDate": "2024-10-01",
+        "category": [
+            "Category 1",
+            "Category 3"
+        ],
+        "price": 110,
+        "createdAt": "2024-03-20T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSE10J3nITxnv2goGcRmOHkYuHT0S_VGKxZNmQ9jlV_8VoDZ5P-Rn4CRGoNxyRGHfq100zxulDH4bu6ZGcVI6E-M6koVPcPyUmJuImvJ3Q&usqp=CAc",
+        "id": 94182
+    },
+    {
+        "model": "Product 23",
+        "releaseDate": "2024-11-01",
+        "category": [
+            "Category 2"
+        ],
+        "price": 200,
+        "createdAt": "2024-03-19T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 84817
+    },
+    {
+        "model": "Product 24",
+        "releaseDate": "2024-12-01",
+        "category": [
+            "Category 1",
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 290,
+        "createdAt": "2024-03-18T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 71005
+    },
+    {
+        "model": "Product 25",
+        "releaseDate": "2025-01-01",
+        "category": [
+            "Category 1"
+        ],
+        "price": 160,
+        "createdAt": "2024-03-17T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQw3wOgn3rlRXpQUHK-B1aTQIelbd5Tkyjf8h6p8kSxhM5tOb2P1-0BQtedH-1fdVdNF9IIoAZQXxKwAY4oSlY7HRwh1udgvT_kA46oGMET&usqp=CAc",
+        "id": 45269
+    },
+    {
+        "model": "Product 26",
+        "releaseDate": "2025-02-01",
+        "category": [
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 240,
+        "createdAt": "2024-03-16T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSE10J3nITxnv2goGcRmOHkYuHT0S_VGKxZNmQ9jlV_8VoDZ5P-Rn4CRGoNxyRGHfq100zxulDH4bu6ZGcVI6E-M6koVPcPyUmJuImvJ3Q&usqp=CAc",
+        "id": 62110
+    },
+    {
+        "model": "Product 27",
+        "releaseDate": "2025-03-01",
+        "category": [
+            "Category 1",
+            "Category 3"
+        ],
+        "price": 310,
+        "createdAt": "2024-03-15T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 24787
+    },
+    {
+        "model": "Product 28",
+        "releaseDate": "2025-04-01",
+        "category": [
+            "Category 2"
+        ],
+        "price": 130,
+        "createdAt": "2024-03-14T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 40976
+    },
+    {
+        "model": "Product 29",
+        "releaseDate": "2025-05-01",
+        "category": [
+            "Category 1",
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 200,
+        "createdAt": "2024-03-13T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0MEUJFP7hnEW5egIbZR-xMDLeXiRjxIpk2omiI9WzqDNDADz9CBGFA06XkWH3RIZTDu-gYiRzq0kB3XWV9CqIgQlV9-BwOP7c0-UvhK9vz2Yi_MhbS_fknMYIRVmVNWZ56-HYaVnlQCE&usqp=CAc",
+        "id": 29269
+    },
+    {
+        "model": "Product 30",
+        "releaseDate": "2025-06-01",
+        "category": [
+            "Category 1"
+        ],
+        "price": 280,
+        "createdAt": "2024-03-12T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0MEUJFP7hnEW5egIbZR-xMDLeXiRjxIpk2omiI9WzqDNDADz9CBGFA06XkWH3RIZTDu-gYiRzq0kB3XWV9CqIgQlV9-BwOP7c0-UvhK9vz2Yi_MhbS_fknMYIRVmVNWZ56-HYaVnlQCE&usqp=CAc",
+        "id": 3616
+    },
+    {
+        "model": "Product 31",
+        "releaseDate": "2025-07-01",
+        "category": [
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 350,
+        "createdAt": "2024-03-11T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRczyD5KnOTNniXIFpoj7RD8ZzvLUx3Y7vy5QVabuOyIIFn4blAyUfRxOfA-9sehpGesggObhGB_FOvPnRu7ITJWbR9s_LTkXB5gk6SMQO2xeyegW6KgZlD&usqp=CAc",
+        "id": 30271
+    },
+    {
+        "model": "Product 32",
+        "releaseDate": "2025-08-01",
+        "category": [
+            "Category 1",
+            "Category 3"
+        ],
+        "price": 120,
+        "createdAt": "2024-03-10T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0MEUJFP7hnEW5egIbZR-xMDLeXiRjxIpk2omiI9WzqDNDADz9CBGFA06XkWH3RIZTDu-gYiRzq0kB3XWV9CqIgQlV9-BwOP7c0-UvhK9vz2Yi_MhbS_fknMYIRVmVNWZ56-HYaVnlQCE&usqp=CAc",
+        "id": 72388
+    },
+    {
+        "model": "Product 33",
+        "releaseDate": "2025-09-01",
+        "category": [
+            "Category 2"
+        ],
+        "price": 210,
+        "createdAt": "2024-03-09T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSE10J3nITxnv2goGcRmOHkYuHT0S_VGKxZNmQ9jlV_8VoDZ5P-Rn4CRGoNxyRGHfq100zxulDH4bu6ZGcVI6E-M6koVPcPyUmJuImvJ3Q&usqp=CAc",
+        "id": 24671
+    },
+    {
+        "model": "Product 34",
+        "releaseDate": "2025-10-01",
+        "category": [
+            "Category 1",
+            "Category 2",
+            "Category 3"
+        ],
+        "price": 300,
+        "createdAt": "2024-03-08T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQw3wOgn3rlRXpQUHK-B1aTQIelbd5Tkyjf8h6p8kSxhM5tOb2P1-0BQtedH-1fdVdNF9IIoAZQXxKwAY4oSlY7HRwh1udgvT_kA46oGMET&usqp=CAc",
+        "id": 75113
+    },
+    {
+        "model": "Product 35",
+        "releaseDate": "2025-11-01",
+        "category": [
+            "Category 1"
+        ],
+        "price": 170,
+        "createdAt": "2024-03-07T00:00:00.000Z",
+        "is_visible": true,
+        "images": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0MEUJFP7hnEW5egIbZR-xMDLeXiRjxIpk2omiI9WzqDNDADz9CBGFA06XkWH3RIZTDu-gYiRzq0kB3XWV9CqIgQlV9-BwOP7c0-UvhK9vz2Yi_MhbS_fknMYIRVmVNWZ56-HYaVnlQCE&usqp=CAc",
+        "id": 58956
+    }
+]
+}

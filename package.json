@@ -16,10 +16,15 @@
   },
   "dependencies": {
     "@types/node": "^20.12.6",
+    "@vee-validate/yup": "^4.12.6",
     "axios": "^1.6.8",
     "element-plus": "^2.6.3",
+    "roboto-fontface": "^0.10.0",
+    "unplugin-fonts": "^1.1.1",
+    "vee-validate": "^4.12.6",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue-router": "^4.3.0",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.24.4",

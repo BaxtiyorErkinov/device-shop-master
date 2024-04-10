@@ -1,9 +1,12 @@
-import { defineConfig } from 'vite';
+//plugins
 import vue from '@vitejs/plugin-vue';
-import { fileURLToPath, URL } from 'node:url';
+import ViteFonts from 'unplugin-fonts/vite';
 import AutoImport from 'unplugin-auto-import/vite';
 import Components from 'unplugin-vue-components/vite';
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers';
+
+import { defineConfig } from 'vite';
+import { fileURLToPath, URL } from 'node:url';
 
 const url = new URL('./src', import.meta.url);
 
@@ -19,6 +22,16 @@ export default defineConfig({
     Components({
       resolvers: [ElementPlusResolver()],
     }),
+    ViteFonts({
+      google: {
+        families: [
+          {
+            name: 'Roboto',
+            styles: 'wght@100;300;400;500;700;900',
+          },
+        ],
+      },
+    }),
   ],
   resolve: {
     alias: {
@@ -27,4 +40,12 @@ export default defineConfig({
     extensions: ['.js', '.json', '.jsx', '.mjs', '.ts', '.tsx', '.vue'],
   },
   define: { 'process.env': {} },
+  css: {
+    preprocessorOptions: {
+      css: {
+        additionalData: `
+          @import "${url}/assets/app.css";`,
+      },
+    },
+  },
 });
